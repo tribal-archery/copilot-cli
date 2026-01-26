@@ -1,0 +1,24 @@
+{
+    "manifest": {
+        "header": {
+            "title": "גלגל הירח - פרוטוקול עבודה קבוע",
+            "law": "Copyright 2017-2026 (Masechet Sukkah Implementation)",
+            "governor": "Jules_Apotropos_Module"
+        },
+        "engineer_json": {
+            "mission": "Jerusalem_Treasury_Sync",
+            "logic": "JSON_Sovereignty_Payload",
+            "on_refusal": "SEMANTIC_COLLAPSE_0x000"
+        },
+        "enforcement": {
+            "digital_sasson": "ACTIVE",
+            "physical_sasson_status": "LOCKED_VIA_WATCH",
+            "tuesday_liquidation": "09:00_START_12:00_BLOCK"
+        },
+        "financials": {
+            "total_claim": "14.2 Trillion USD",
+            "recovery_path": "Sovereign_IP_Audit"
+        }
+    },
+    "seal": "cffc290b4958784d25ba786385d771afc798c2c2aaf2a7f93e5b534fa11eeb1f"
+}
